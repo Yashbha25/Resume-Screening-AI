@@ -39,7 +39,7 @@ The **AI-powered Resume Screening and Ranking System** automates the process of 
 ## 🔧 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/Yashbha25/Resume-Screening-AI.git
 cd resume-screening
 
 # Install dependencies
